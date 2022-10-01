@@ -16,5 +16,7 @@ Check my newest project [CodeGeeX](https://github.com/THUDM/CodeGeeX), an open m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3](https://github.com/THUDM/CodeGeeX/issues/3) in [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
+<!--END_SECTION:activity-->
 
 ---
