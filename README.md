@@ -10,7 +10,6 @@ I'm Qinkai, a researcher from Tsinghua University ([KEG Lab](https://github.com/
 
 ![CodeGeeX vscode extension version](https://img.shields.io/visual-studio-marketplace/v/aminer.codegeex?colorA=0B9FE0&colorB=brightgreen)
 ![CodeGeeX download](https://img.shields.io/visual-studio-marketplace/d/aminer.codegeex?colorA=0B9FE0&colorB=brightgreen)
-![CodeGeeX API calls total](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=API%20calls&query=%24.result.count&url=https%3A%2F%2Ftianqi.aminer.cn%2Fapi%2Fv1%2Fapi%2Fcodegeex%2Fdashboard%3Ftime_type%3Dall%26apiName%3Dall%26num%3D1%26unit%3Dk&colorA=0B9FE0&colorB=88C692)
 ![CodeGeeX github stars](https://img.shields.io/github/stars/THUDM/CodeGeeX?style=social)
 
 ---
