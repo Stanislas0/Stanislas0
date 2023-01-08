@@ -17,7 +17,7 @@ I'm Qinkai, a researcher from Tsinghua University ([KEG Lab](https://github.com/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/THUDM/CodeGeeX/issues/44) in [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
+1. 🎉 Merged PR [#4](https://github.com/CodeGeeX/codegeex-fastertransformer/pull/4) in [CodeGeeX/codegeex-fastertransformer](https://github.com/CodeGeeX/codegeex-fastertransformer)
 <!--END_SECTION:activity-->
 
 ---
