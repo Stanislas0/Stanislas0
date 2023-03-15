@@ -17,7 +17,7 @@ I'm Qinkai, a researcher from Tsinghua University ([KEG Lab](https://github.com/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#124](https://github.com/huggingface/text-generation-inference/issues/124) in [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
+1. 🎉 Merged PR [#87](https://github.com/THUDM/CodeGeeX/pull/87) in [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
 <!--END_SECTION:activity-->
 
 ---
