@@ -17,7 +17,7 @@ I'm Qinkai, a researcher from Tsinghua University ([KEG Lab](https://github.com/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/togethercomputer/RedPajama-Data/issues/26) in [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data)
+1. 🗣 Commented on [#160](https://github.com/THUDM/CodeGeeX/issues/160) in [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
 <!--END_SECTION:activity-->
 
 ---
