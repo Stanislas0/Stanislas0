@@ -6,6 +6,7 @@ I'm Qinkai, a researcher from Tsinghua University ([KEG Lab](https://github.com/
 
 ### :electron: Highlight
 
+* [CodeGeeX2](https://github.com/THUDM/CodeGeeX2), 2nd gen, better, faster, lightweight (only need ~6GB RAM) code generation model.
 * [CodeGeeX](https://github.com/THUDM/CodeGeeX), an open multilingual code generation model, with extensions supporting [VS Code](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex) and [Jetbrains](https://plugins.jetbrains.com/plugin/20587-codegeex) (for free!)
 
 ![CodeGeeX vscode extension version](https://img.shields.io/visual-studio-marketplace/v/aminer.codegeex?colorA=0B9FE0&colorB=brightgreen)
