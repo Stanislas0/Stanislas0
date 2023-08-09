@@ -18,7 +18,7 @@ I'm Qinkai, a researcher from Tsinghua University ([KEG Lab](https://github.com/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/THUDM/CodeGeeX2/pull/67) in [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
+1. 🗣 Commented on [#61](https://github.com/THUDM/CodeGeeX2/issues/61#issuecomment-1672090799) in [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
 <!--END_SECTION:activity-->
 
 ---
