@@ -5,7 +5,7 @@ I'm Qinkai, a researcher from Tsinghua University ([KEG Lab](https://github.com/
 ---
 
 ### :electron: Highlight
-
+* [CodeGeeX4](https://github.com/THUDM/CodeGeeX4), 4th gen, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A, and much more.
 * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2), 2nd gen, better, faster, lightweight (only need ~6GB RAM) code generation model.
 * [CodeGeeX](https://github.com/THUDM/CodeGeeX), an open multilingual code generation model, with extensions supporting [VS Code](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex) and [Jetbrains](https://plugins.jetbrains.com/plugin/20587-codegeex) (for free!)
 
